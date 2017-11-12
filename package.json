@@ -1,0 +1,19 @@
+{
+  "name": "js-dev-enviroment",
+  "version": "1.0.0",
+  "description": "JavaScript Development Environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMancia/js-dev-enviroment.git"
+  },
+  "author": "Jorge Mancia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JMancia/js-dev-enviroment/issues"
+  },
+  "homepage": "https://github.com/JMancia/js-dev-enviroment#readme"
+}
